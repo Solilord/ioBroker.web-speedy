@@ -1,7 +1,7 @@
 {
 	"common": {
 		"name": "web-speedy-fixed",
-		"version": "0.2.2",
+		"version": "0.2.4",
 		"news": {
 			"0.2.0": {
 				"en": "Initial release",
