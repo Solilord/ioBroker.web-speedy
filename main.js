@@ -91,7 +91,7 @@ class WebSpeedy extends utils.Adapter {
                 case (0):
                     // Run test on Best Server found
                     this.log.info('Run test on on Best Server found');
-                    run_test = speedTest({ maxTime: test_duration acceptLicense: true acceptGdpr: true });
+                    run_test = speedTest({ maxTime: test_duration });
                     break;
 
                 case (1):
