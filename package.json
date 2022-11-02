@@ -1,6 +1,6 @@
 {
   "name": "iobroker.web-speedy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Web-Speedy enables you to test your internet connection on a regular base and store results in ioBroker ! Based on DutchmanNL",
   "author": {
     "name": "Solilord",
@@ -52,7 +52,7 @@
     "lint": "eslint"
   },
   "bugs": {
-    "url": "https://github.com/DrozmotiX/ioBroker.web-speedy/issues"
+    "url": "https://github.com/Solilord/ioBroker.web-speedy/issues"
   },
   "readmeFilename": "README.md"
 }
