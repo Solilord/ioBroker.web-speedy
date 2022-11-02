@@ -1,12 +1,12 @@
 {
   "name": "iobroker.web-speedy",
   "version": "0.2.0",
-  "description": "Web-Speedy enables you to test your internet connection on a regular base and store results in ioBroker !",
+  "description": "Web-Speedy enables you to test your internet connection on a regular base and store results in ioBroker ! Based on DutchmanNL",
   "author": {
-    "name": "DutchmanNL",
-    "email": "rdrozda86@gmail.com"
+    "name": "Solilord",
+    "email": "solilord@t-online.de"
   },
-  "homepage": "https://github.com/DrozmotiX/ioBroker.web-speedy",
+  "homepage": "https://github.com/Solilord/ioBroker.web-speedy",
   "license": "MIT",
   "keywords": [
     "speed",
@@ -16,11 +16,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/DrozmotiX/ioBroker.web-speedy"
+    "url": "https://github.com/Solilord/ioBroker.web-speedy"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.2.1",
-    "speedtest-net": "^1.6.2"
+    "speedtest-net": "^2.2.0"
   },
   "devDependencies": {
     "@iobroker/testing": "^2.0.2",
