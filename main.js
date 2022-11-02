@@ -29,7 +29,7 @@ class WebSpeedy extends utils.Adapter {
     constructor(options) {
         super({
             ...options,
-            name: 'web-speedy',
+            name: 'web-speedy-fixed',
         });
         this.on('ready', this.onReady.bind(this));
         this.on('stateChange', this.onStateChange.bind(this));
